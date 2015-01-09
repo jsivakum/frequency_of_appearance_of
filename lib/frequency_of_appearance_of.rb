@@ -4,8 +4,8 @@ class String
     phrase_with_punctuation_removed = gsub(/[.,;?'"]/, ' ')
     count = 0
 
-    phrase_with_punctuation_removed.split().each() do |word_from_phrase|
-      if(word_to_count == word_from_phrase)
+    phrase_with_punctuation_removed.upcase().split().each() do |word_from_phrase|
+      if(word_to_count.upcase() == word_from_phrase)
         count += 1
       end
     end
