@@ -13,8 +13,8 @@ Usage i.e. "Hello World".frequency_of_appearance_of("Hello")
 Note: Replace Steps 4 and 5 with running 'rspec' in the root of the project directory if interested in trying the program through the terminal.
 
 # COPYRIGHT
-## Jeyananthan Sivakumaran
-## nayagan@gmail.com
+ Jeyananthan Sivakumaran
+ nayagan@gmail.com
 
 # LICENSE
 ##GPL GNU v2
